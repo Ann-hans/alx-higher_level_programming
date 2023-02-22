@@ -1,5 +1,3 @@
- (17 sloc)  565 Bytes
-
 #!/usr/bin/python3
 """writing a docstring"""
 import math
